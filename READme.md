@@ -20,7 +20,7 @@ This is a mobile application built with **Android Studio** and written in **Java
 If not already done, download the ZIP or clone via Git:
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/NinoLacambra/SmartGlasses.git
 ```
 
 ### 2. Open in Android Studio
@@ -84,7 +84,7 @@ If you encounter errors like:
 ## ✍️ Author
 
 Niño C. Lacambra
-lacambranino12@gmail.com
-www.linkedin.com/in/niño-lacambra
+* lacambranino12@gmail.com
+* www.linkedin.com/in/niño-lacambra
 
 ---
