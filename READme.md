@@ -81,10 +81,24 @@ If you encounter errors like:
 
 ---
 
+## 📝 ESP32 Source Code
+
+The Android app works in conjunction with an ESP32 microcontroller. You can find the ESP32 source code repository here:
+
+🔗 [ESP32 Smart Glasses Controller Code](https://github.com/NinoLacambra/SmartGlasses-ESP32.git)
+
+---
+
 ## ✍️ Author
 
 Niño C. Lacambra
-* lacambranino12@gmail.com
-* www.linkedin.com/in/niño-lacambra
+
+* [lacambranino12@gmail.com](mailto:lacambranino12@gmail.com)
+* [www.linkedin.com/in/niño-lacambra](http://www.linkedin.com/in/niño-lacambra)
 
 ---
+
+## License
+
+MIT License - Free for personal and commercial use
+
