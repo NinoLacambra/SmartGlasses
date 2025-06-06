@@ -1,4 +1,4 @@
-# Android App Project
+# Smart Glasses Android Application
 
 This is a mobile application built with **Android Studio** and written in **Java/Kotlin** (update as needed). It was downloaded from GitHub and is designed to run on Android devices using Gradle as the build system.
 
