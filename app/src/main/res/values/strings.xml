@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Y_EESP32_SmartGlasses_R2</string>
+    <string name="ble_not_supported">[RageQuit] BLE not supported on your device! BB :(</string>
+</resources>
